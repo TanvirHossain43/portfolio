@@ -6,8 +6,8 @@ const NavBar = () => {
     const options = <>
         
             <li className='text-lg'><Link to="/">Home</Link></li>
+            <li className='text-lg'><a href='#about'>About</a></li>
            
-            <li></li>
       
     </>
 
